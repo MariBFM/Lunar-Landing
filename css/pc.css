@@ -1,0 +1,165 @@
+body
+{
+	background-image: url(../img/fondo1.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+}
+li
+{
+	font-family: monospace;
+	background-color: navy;
+	color: white;
+	font-size: 15px;
+	border: 1px solid blue;
+	list-style-type: none;
+	padding: 5px;
+}
+.Panel
+{
+	display: block;
+	width: 150px;
+	position: absolute;
+	left: 0px;
+}
+.Opciones li
+{
+	display: inline-block;
+	text-align: center;
+	margin: none;
+}
+.Opciones
+{
+	position: absolute;
+	right: 2%;
+	top: 2%;
+}
+#how
+{
+	width: 50px;
+	height: 50px;
+}
+#luna
+{
+	width: 100%;
+	height: 60%;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+}
+.nave
+{
+	display: block;
+	position: absolute;
+	left: 45%;
+}
+#cohete
+{
+	width: 150px;
+	height: 250px;
+	position: absolute;
+	left: 0px;
+	z-index: 6;
+}
+#nvl1
+{
+	width: 60px;
+	position: absolute;
+	left: 42px;
+	top: 135px;
+	z-index: 5;
+}
+#nvl2
+{
+	width: 60px;
+	position: absolute;
+	left: 41px;
+	top: 142px;
+	z-index: 4;
+}
+#nvl3
+{
+	width: 60px;
+	position: absolute;
+	left: 40px;
+	top: 159px;
+	z-index: 3;
+}
+#tele1
+{
+	width: 10%;
+	position: absolute;
+	left: 5%;
+	bottom:15%;
+}
+#tele2
+{
+	width: 15%;
+	position: absolute;
+	right: 10%;
+	bottom:5%;	
+}
+#play
+{
+	width: 50px;
+	height: 50px;
+	z-index: 10;
+}
+#pause
+{
+	position: absolute;
+	right: 43.0%;
+	width: 50px;
+	height: 50px;
+	z-index: 11;
+}
+#reinicio
+{
+	width: 50px;
+	height: 50px;
+}
+.Opciones li :hover
+{
+	background-color: blue;
+}
+.howto
+{
+	background-color: black;
+	opacity: 0.6;
+	color: white;
+	text-align: center;
+	font-size: 24px;
+	padding: 5px;
+	margin: 10px;
+	width: 50%;
+	position: relative;
+	left: 25%;
+}
+em
+{
+	color: blue;
+}
+h2
+{
+	color: white;
+	text-decoration: none;
+	width: 20px;
+}
+#close
+{
+	text-decoration: none;
+	display: block;
+	width: 20px;
+}
+a :hover
+{
+	color: navy;
+}
+#r
+{
+	display: block;
+	position: absolute;
+	top: 80%;
+	right: 0%;
+	margin-top: 8px;
+}
