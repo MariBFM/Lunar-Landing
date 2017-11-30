@@ -46,7 +46,7 @@ En ambos **CSS** he ajustado el tamaño en píxeles, y para el posicionamiento h
 Para los enlaces he utilizado apariencias dinámicas para que en ordenador sea más fácil encontrarlos.
 
 #### Validador CSS:
-![Validador CSS](https://github.com/NMari2/Lunar-Landing/blob/LunarLanding-Minimificada/Validador%20CSS%20Mini.PNG)
+![Validador CSS](https://github.com/NMari2/Lunar-Landing/blob/LunarLanding-Minimificada/VCSSMini.PNG)
 
 ### Rawgit de la página minimificada:  
 [**LunarLanding**](https://rawgit.com/NMari2/Lunar-Landing/LunarLanding-Minimificada/index.html)
